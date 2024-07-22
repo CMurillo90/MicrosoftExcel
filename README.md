@@ -11,11 +11,15 @@ Transformar y visualizar los datos que permita a los propietarios de la tienda o
 1. Mayor venta por categoría de producto
    - La categoría de producto con mayor venta fue la de Electrónica, sin embargo se realizarón más transacciones de la categoía de Ropa. 
   
-2. Tendencia de categoría de producto por género.
+2. Tendencia de venta de categoría de producto por género.
    - Existe una inclinación por parte del género femenino por la compra de productos del departamento de belleza y ropa, así como del masculino por productos de electrónica. 
+![image](https://github.com/user-attachments/assets/ac7a344d-a920-47a6-a304-4e65fe5fc858)
+### Venta de categoría de producto por género
 
 3. Ventas por género y edad.
    - Las categorías de edades consideradas en el análisis van desde los 18 a los 64 años, dentro de los cuales las edad con mayores ventas de manera global se muestran en el siguiente gráfico. En comparativa por género, las mujeres con mayor compra fueron las de 34, 26 y 43 años, por su parte los hombres que gastan más tienen 51, 22, 43 y 46 años.
-  
+![image](https://github.com/user-attachments/assets/95e4a65e-54c7-4463-a163-5007340c9665)
+### Venta por género y edad
+
 ### Código utilizado en el análisis. 
 ``` SELECT * FROM table ```
